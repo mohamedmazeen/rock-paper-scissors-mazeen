@@ -1,0 +1,16 @@
+/**
+*
+* list.css 
+* @author - Mazeen
+* @date - 1/8/2023  
+**/
+.options-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.options-list li {
+    display: inline-block;
+    margin: 0 20px;
+}

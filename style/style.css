@@ -1,0 +1,53 @@
+/**
+*
+* style.css 
+* @author - Mazeen
+* @date - 1/8/2023  
+**/
+.games {
+    margin: 50px 0 auto;
+}
+.games .scoreboard {
+    position: relative;
+    margin: auto;
+    width: 450px;
+    height: 120px;
+    border: 1px solid #fff;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+.scoreboard .scorerecord {
+    display: inline-block;
+    margin: 20px 0;
+}
+.games .title {
+    margin:50px 0px;
+    font-size: 30px;
+    text-align: center;
+}
+.games .subtitle {
+    margin: 50px 0;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+.side-1 , .side-2 {
+    display: inline-block;
+    background-color: #e9634b;
+    padding: 10px;
+    font-size: 18px;
+}
+.side-1 {
+    position: absolute;
+    left: -35px;
+    top: 35%;
+}
+.side-2 {
+    position: absolute;
+    right: -35px;
+    top: 35%;
+}
+.reset-score {
+    text-align: center;
+}

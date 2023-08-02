@@ -1,0 +1,2 @@
+# Rock Paper Scissors
+This is a Rock Paper Scissors game built using HTML, CSS, and Javascript. First the user picks a choice and then the program will pick its choice at random. The basic rules of Rock Paper Scissors are implemented into the code so that the game is playable. The winner of each round is displayed and there is a self updating scoreboard to help keep track of the score between the user and program.

@@ -1,0 +1,23 @@
+/**
+*
+* form.css 
+* @author - Mazeen
+* @date - 1/8/2023 
+**/
+.primary-btn {
+    padding: 20px 25px;
+    background-color: #1e272e;
+    color: #fff;
+    outline: none;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    font-size: 25px;
+    cursor: pointer;
+}
+.primary-btn:hover {
+    background-color: #1e2226;
+}
+.primary-btn:active {
+    background-color: none;
+    border: 2px solid #008000;
+}
